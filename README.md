@@ -1,6 +1,6 @@
 # Responsible Use of AI in Expert Reports
 
-Welcome to the **Code of Conduct for the Responsible Use of AI in Expert Reports on Mental Functioning of Offenders**.  
+Welcome to the **Code of Conduct for the Responsible Use of AI in Expert Reports on the Mental Functioning of Offenders**.  
 This repository provides a transparent, open-access framework to guide psychologists and psychiatrists in responsibly using Artificial Intelligence (AI) when preparing forensic reports for courts, tribunals, and parole boards.  
 
 ---
