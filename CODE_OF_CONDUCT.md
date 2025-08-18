@@ -126,3 +126,15 @@ AI must not be used for:
 - Experts must cite the specific version of the Code followed in their reports (e.g., Version 1.1).  
 
 ---
+
+## DISCLOSURE
+
+This report was prepared in compliance with the *Code of Conduct for the Responsible Use of AI in Expert Reports on Mental Functioning of Offenders (Version 1.1)*.  
+
+**AI tools used:** [Name and version]  
+**Purpose of use:** [e.g., transcription, formatting, literature summarisation, quality checks, exploratory hypotheses]  
+**Data handling:** [e.g., de-identified inputs, secure system, training disabled]  
+**Verification:** All AI outputs were independently checked against source materials and critically evaluated.  
+**Limitations:** [Any relevant notes]  
+
+All professional opinions, analyses, and conclusions are my own, independently verified, and free from unverified AI influence.  
