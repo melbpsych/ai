@@ -102,10 +102,6 @@ AI must not be used for:
 7. Independently verify all AI-suggested changes or outputs.  
 8. Finalise the report and include the AI use declaration.  
 
-### 4.3 Sample Declaration for Reports
-> **Declaration on AI Use**  
-> In preparing this report, I have adhered to the *Code of Conduct for the Responsible Use of AI in Expert Reports* (Version 1.1). AI tools, where used, were limited to administrative support, transcription, literature summarisation, exploratory hypotheses, critical feedback, and quality assurance. All professional opinions, analyses, and conclusions are my own, have been independently verified, and are free from unverified AI influence.  
-
 ---
 
 ## 5. Summary for Inclusion in Reports
